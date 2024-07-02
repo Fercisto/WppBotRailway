@@ -1,8 +1,8 @@
 require('dotenv').config();
 const { createBot, createProvider, createFlow, addKeyword, EVENTS } = require('@bot-whatsapp/bot');
 const BaileysProvider = require('@bot-whatsapp/provider/baileys');
-// const MockAdapter = require('@bot-whatsapp/database/mock');
-const MongoAdapter = require('@bot-whatsapp/database/mongo');
+const MockAdapter = require('@bot-whatsapp/database/mock');
+// const MongoAdapter = require('@bot-whatsapp/database/mongo');
 
 
 // Variables para manejar el estado del usuario y el temporizador
@@ -110,10 +110,11 @@ const flowOtrasConsultas = addKeyword(['3', 'otros', 'otras', 'otra', 'otro', 'c
 // Función principal para iniciar el bot
 const main = async () => {
     try {
-        const adapterDB = new MongoAdapter({
-            dbUri: process.env.MONGO_DB_URI,
-            dbName: "Bot"
-        });
+        // const adapterDB = new MongoAdapter({
+        //     dbUri: process.env.MONGO_DB_URI,
+        //     dbName: "Bot"
+        // });
+        const adapterDB = new MockAdapter();
         const adapterFlow = createFlow([flowWelcome, flowHorario, flowUbicacion, flowOtrasConsultas, flowGratitude]);
         const adapterProvider = createProvider(BaileysProvider);
 
