@@ -1,0 +1,143 @@
+[
+  {
+    "ref": "ans_e6d36027-e2ea-4925-830f-050cf80edb52",
+    "keyword": "key_92546197-1347-4bca-94ad-bd458201c963",
+    "answer": "🙌 ¡Hola! ¡Bienvenido al Super Tianguis del centro!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "7bdb3ac188086e245b6a32d9446699d1",
+    "from": "5213329389363"
+  },
+  {
+    "ref": "ans_95d3add4-4f66-463d-8e50-aa7df30f9220",
+    "keyword": "ans_dff12e05-f332-4abb-96d9-084206ebd174",
+    "answer": "Por favor, responde con el número de la opción que deseas.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "2c7bc741eb6277d5fbc879c568be444c",
+    "from": "5213329389363"
+  },
+  {
+    "ref": "ans_dff12e05-f332-4abb-96d9-084206ebd174",
+    "keyword": "ans_e6d36027-e2ea-4925-830f-050cf80edb52",
+    "answer": "¿En qué puedo ayudarte hoy?\n1. Conocer el horario de atención\n2. Ubicación de la tienda\n3. Otras consultas",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "d1dea679c883d3bd77a9fab4557b9dd0",
+    "from": "5213329389363"
+  },
+  {
+    "ref": "ans_95d3add4-4f66-463d-8e50-aa7df30f9220",
+    "keyword": "ans_dff12e05-f332-4abb-96d9-084206ebd174",
+    "answer": "Por favor, responde con el número de la opción que deseas.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "2c7bc741eb6277d5fbc879c568be444c",
+    "from": "5213329389363"
+  },
+  {
+    "ref": "ans_95d3add4-4f66-463d-8e50-aa7df30f9220",
+    "keyword": "ans_dff12e05-f332-4abb-96d9-084206ebd174",
+    "answer": "Por favor, responde con el número de la opción que deseas.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "2c7bc741eb6277d5fbc879c568be444c",
+    "from": "5213329389363"
+  },
+  {
+    "ref": "7bf532fb-2fdf-443b-9432-52ddb17eeaf4",
+    "keyword": "2c7bc741eb6277d5fbc879c568be444c",
+    "answer": "Otra pregunta",
+    "options": {},
+    "from": "5213329389363",
+    "refSerialize": "a9f572b220e957905e6297d0da8b2490"
+  },
+  {
+    "ref": "ans_8f7c92e0-8f60-4f70-8e12-fd92a3010e34",
+    "keyword": "key_fdb661d6-4ac2-4065-82e2-59c8b452f416",
+    "answer": "Enseguida una persona te responderá sobre tu consulta.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "619f25c7716ffa860164a30f0698af21",
+    "from": "5213329389363"
+  },
+  {
+    "ref": "ans_702efe33-80e2-4f3d-9218-fe8815c8dde5",
+    "keyword": "ans_8f7c92e0-8f60-4f70-8e12-fd92a3010e34",
+    "answer": "¿Hay algo más en lo que pueda asistirte?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "aadcd258510e09cdcaeb0c2b10248ee1",
+    "from": "5213329389363"
+  }
+]

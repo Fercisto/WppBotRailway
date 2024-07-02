@@ -1,0 +1,500 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213329389363@s.whatsapp.net',
+    fromMe: false,
+    id: '3A92CD50AD4BD9EA1FDF',
+    participant: undefined
+  },
+  messageTimestamp: 1719904518,
+  pushName: 'C',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5213329389363'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_01fd773a-7924-4a50-aec5-6a9cc88011ef',
+  keyword: 'key_7862d82a-20b2-413e-aafb-21615819133f',
+  answer: '🙌 ¡Hola! ¡Bienvenido al Super Tianguis del centro!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c68062c904150b72f33f60d861cf522b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_310d1921-b753-4f85-bdc3-65273bb05b96',
+  keyword: 'ans_01fd773a-7924-4a50-aec5-6a9cc88011ef',
+  answer: '¿En qué puedo ayudarte hoy?\n' +
+    '1. Conocer el horario de atención\n' +
+    '2. Ubicación de la tienda\n' +
+    '3. Otras consultas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ded23e47b4995a57850ee1700f830b25'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_46e9e87e-c59a-42bf-b910-6dd099d96674',
+  keyword: 'ans_310d1921-b753-4f85-bdc3-65273bb05b96',
+  answer: 'Por favor, responde con el número de la opción que deseas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0fc4809f09768e20262b5057bba90ea7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213329389363@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF517B806A5E931323A',
+    participant: undefined
+  },
+  messageTimestamp: 1719904521,
+  pushName: 'C',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5213329389363'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ebd2c96-2ab1-41d7-ae53-da9c46bf83af',
+  keyword: 'key_704fcf0d-46b5-464b-86f2-0c5bdab4384f',
+  answer: '¡Con gusto te daré esa información!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '00f95e2eb3b33e2bef4b6d9ab63cfa3e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_66141b63-4b9f-44b1-b019-377f9b2c4c0e',
+  keyword: 'ans_2ebd2c96-2ab1-41d7-ae53-da9c46bf83af',
+  answer: 'Nuestro horario es de: Lunes a Sábado de 10:00 am a 8:00 pm\n' +
+    'Domingo de 10:00 am a 4:00 pm.\n' +
+    '¡Estamos listos para recibirte y ofrecerte la mejor calidad de ropa a los mejores precios!\n' +
+    '¿Hay algo más en lo que pueda ayudarte? ¡Estoy aquí para asistirte!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '65f5a1567d308eff02a563a90e22a8f4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213329389363@s.whatsapp.net',
+    fromMe: false,
+    id: '3A56E70A7F2497A1F79A',
+    participant: undefined
+  },
+  messageTimestamp: 1719904524,
+  pushName: 'C',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5213329389363'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_46530e71-ec9e-4efe-8624-534a07ae3bd9',
+  keyword: 'key_9df552e1-5e2c-4dae-8986-c631868aada8',
+  answer: 'Nos encontramos en Progreso #104, zona centro.\n' +
+    'Estamos ubicados en una zona céntrica para tu conveniencia.\n' +
+    '¡Te esperamos para que puedas disfrutar de nuestra selección de ropa de alta calidad a precios accesibles!\n' +
+    '¿Hay algo más en lo que pueda asistirte? ¡Estoy aquí para ayudarte!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3eb8e65dc0c2b3893a6a39f742eb5f18'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8442ed97-d84e-44b8-8516-72ca872233d3',
+  keyword: 'ans_46530e71-ec9e-4efe-8624-534a07ae3bd9',
+  answer: 'https://maps.app.goo.gl/k8BuD8qisC7PPUhK7?g_st=com.google.maps.preview.copy',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e4972c6b5c2fca31e717b7a01f65e7db'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213329389363@s.whatsapp.net',
+    fromMe: false,
+    id: '3A29610B9EF7E95AE91D',
+    participant: undefined
+  },
+  messageTimestamp: 1719904527,
+  pushName: 'C',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5213329389363'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_665885ca-3631-4262-80a9-99b7d6100c24',
+  keyword: 'key_1a635c7e-731b-4551-9784-8217eef4faf6',
+  answer: 'Enseguida una persona te responderá sobre tu consulta.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b2b0236190f1955223a16f821c7c8f7e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60a7ff17-cb6b-4832-b61f-fa9eeb6d724b',
+  keyword: 'ans_665885ca-3631-4262-80a9-99b7d6100c24',
+  answer: '¿Hay algo más en lo que pueda asistirte?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3998286b4853c58975a4dc3ae92d660a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213329389363@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9802F2B5EC20631B9E',
+    participant: undefined
+  },
+  messageTimestamp: 1719904531,
+  pushName: 'C',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok',
+  from: '5213329389363'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2211ba42-00cb-4a52-9a4c-af37ad9748b3',
+  keyword: 'key_f74b5267-2633-4b18-b6b4-a04d308edca3',
+  answer: '¡Es un gusto ayudarte! 😊\n' +
+    'Si necesitas algo más, escribe "menú" para ver las opciones disponibles.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '535c918466797f9a141620990910adf6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213329389363@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9BC82DD3CFC97AA6D5',
+    participant: undefined
+  },
+  messageTimestamp: 1719904536,
+  pushName: 'C',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menú',
+  from: '5213329389363'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_01fd773a-7924-4a50-aec5-6a9cc88011ef',
+  keyword: 'key_7862d82a-20b2-413e-aafb-21615819133f',
+  answer: '🙌 ¡Hola! ¡Bienvenido al Super Tianguis del centro!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c68062c904150b72f33f60d861cf522b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_310d1921-b753-4f85-bdc3-65273bb05b96',
+  keyword: 'ans_01fd773a-7924-4a50-aec5-6a9cc88011ef',
+  answer: '¿En qué puedo ayudarte hoy?\n' +
+    '1. Conocer el horario de atención\n' +
+    '2. Ubicación de la tienda\n' +
+    '3. Otras consultas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ded23e47b4995a57850ee1700f830b25'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_46e9e87e-c59a-42bf-b910-6dd099d96674',
+  keyword: 'ans_310d1921-b753-4f85-bdc3-65273bb05b96',
+  answer: 'Por favor, responde con el número de la opción que deseas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0fc4809f09768e20262b5057bba90ea7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213329389363@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEC548B92D85769FD76',
+    participant: undefined
+  },
+  messageTimestamp: 1719904540,
+  pushName: 'C',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5213329389363'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_665885ca-3631-4262-80a9-99b7d6100c24',
+  keyword: 'key_1a635c7e-731b-4551-9784-8217eef4faf6',
+  answer: 'Enseguida una persona te responderá sobre tu consulta.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b2b0236190f1955223a16f821c7c8f7e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60a7ff17-cb6b-4832-b61f-fa9eeb6d724b',
+  keyword: 'ans_665885ca-3631-4262-80a9-99b7d6100c24',
+  answer: '¿Hay algo más en lo que pueda asistirte?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3998286b4853c58975a4dc3ae92d660a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213329389363@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD6C0FC2298CC4043B5',
+    participant: undefined
+  },
+  messageTimestamp: 1719904543,
+  pushName: 'C',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pantalon',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pantalon',
+  from: '5213329389363'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_01fd773a-7924-4a50-aec5-6a9cc88011ef',
+  keyword: 'key_7862d82a-20b2-413e-aafb-21615819133f',
+  answer: '🙌 ¡Hola! ¡Bienvenido al Super Tianguis del centro!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c68062c904150b72f33f60d861cf522b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_310d1921-b753-4f85-bdc3-65273bb05b96',
+  keyword: 'ans_01fd773a-7924-4a50-aec5-6a9cc88011ef',
+  answer: '¿En qué puedo ayudarte hoy?\n' +
+    '1. Conocer el horario de atención\n' +
+    '2. Ubicación de la tienda\n' +
+    '3. Otras consultas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ded23e47b4995a57850ee1700f830b25'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_46e9e87e-c59a-42bf-b910-6dd099d96674',
+  keyword: 'ans_310d1921-b753-4f85-bdc3-65273bb05b96',
+  answer: 'Por favor, responde con el número de la opción que deseas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0fc4809f09768e20262b5057bba90ea7'
+}
