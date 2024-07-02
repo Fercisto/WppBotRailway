@@ -2,11 +2,13 @@ require('dotenv').config();
 const { createBot, createProvider, createFlow, addKeyword, EVENTS } = require('@bot-whatsapp/bot');
 const BaileysProvider = require('@bot-whatsapp/provider/baileys');
 const MockAdapter = require('@bot-whatsapp/database/mock');
+const QRPortalWeb = require('@bot-whatsapp/portal')
 // const MongoAdapter = require('@bot-whatsapp/database/mongo');
 
 
 // Variables para manejar el estado del usuario y el temporizador
 let timeoutId;
+
 let botInstance;
 let currentChatId;
 let hasAskedIfInterested = false; // Variable para rastrear si se ha enviado el mensaje de seguimiento
@@ -125,6 +127,7 @@ const main = async () => {
             onMessage: handleIncomingMessage
         });
 
+        QRPortalWeb();
         startTimeout();
 
         // Configurar respuesta automática cada 3 segundos
